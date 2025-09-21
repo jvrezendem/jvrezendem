@@ -3,5 +3,7 @@
 ## About me
 
 🎓 Estudante de Ciência da Computação na **Universidade Federal de Lavras** 
+
 💻 Apaixonado por desenvolvimento backend e ciência de dados  
+
 ⚡ Sempre buscando aprender e contribuir com projetos de impacto
