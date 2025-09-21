@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/jvrezendem/jvrezendem/blob/main/assets/Frame1.jpg?raw=true" />
 </p>
 
 
