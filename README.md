@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/banner.png" alt="Banner" />
+</p>
+
+
 ### 🚀 Backend & Data Science: decifrando dados e construindo sistemas que não quebram (quase).
 
 - 🎓 Estudante de Ciência da Computação na **Universidade Federal de Lavras** 
