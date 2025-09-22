@@ -33,7 +33,7 @@
 
 <p align="center">
   <span>
-    <a href="https://www.linkedin.com/in/joão-vitor-rezende-marciano-080391b385/">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rezende-marciano-00891b385/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </span>
